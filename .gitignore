@@ -1,0 +1,38 @@
+private/
+.gradle
+build/
+docker/dev/company-ms-0.0.1.war
+target/
+war/
+.classpath
+.project
+.settings/
+gradle.properties
+glassfish-resources.xml
+gradle.properties
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Netbeans specific
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+.nb-gradle/
+.nb-gradle-properties
+
+# Intellij specific
+.idea/
+*.iml
+/target/
+out/
+src/itest/resources/glassfish-resources.xml
+classes/
+docker/app/build_files/*.war
+build.xml
+manifest.mf
+nbbuild.xml
+.DS_Store
